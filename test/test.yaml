@@ -1,0 +1,12 @@
+debug: true
+first_block:
+  name: test
+  count: 3
+  valid: true
+second_block:
+  name: "test-2"
+  count: 1
+  valid: false
+block_three:
+  description: "This is test block"
+  reference: "efc65046-8bd5-448e-8e4b-850b6dcf95ac"
